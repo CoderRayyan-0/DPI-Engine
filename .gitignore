@@ -1,0 +1,4 @@
+*.exe
+output.pcap
+build/
+.vscode/
